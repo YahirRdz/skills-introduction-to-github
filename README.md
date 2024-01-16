@@ -1,6 +1,6 @@
 # Introduction to GitHub Skills
 
-Welcome to the "Introduction to GitHub" course by GitHub Skills! Whether you're a new developer, a beginner on GitHub, or a student eager to kickstart your journey in collaborative coding, this course is designed to equip you with the essential skills to start contributing effectively in less than an hour.
+Welcome to the "Introduction to GitHub" course by GitHub Skills, authored by Yahir Rodriguez! Whether you're a new developer, a beginner on GitHub, or a student eager to kickstart your journey in collaborative coding, this course is designed to equip you with the essential skills to start contributing effectively in less than an hour.
 
 ## Who is this for?
 
@@ -38,4 +38,4 @@ Expect to complete this course in less than one hour. We've streamlined the cont
 
 ## Let's Get Started!
 
-Embark on your GitHub journey with GitHub Skills' "Introduction to GitHub" course. We're excited to guide you through the essentials and empower you to become an active member of the thriving GitHub community. Happy coding! 🚀
+Embark on your GitHub journey with GitHub Skills' "Introduction to GitHub" course, authored by Yahir Rodriguez. We're excited to guide you through the essentials and empower you to become an active member of the thriving GitHub community. Happy coding! 🚀
